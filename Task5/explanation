@@ -1,0 +1,6 @@
+The program structure was improved by separating the main logic into different functions.
+The input validation was moved to a separate function called `validate_input`, which checks if the field is empty, numeric, and not negative.
+The calculation logic was also placed in a separate function called `calculate_square`.
+The event handler function now only coordinates the process by calling the validation and calculation functions.
+Meaningful variable names were used to make the code easier to understand and maintain.
+The program was also organized using a class structure, which improves code readability and organization
