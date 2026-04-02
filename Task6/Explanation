@@ -1,0 +1,6 @@
+The grid() layout manager was used to organize the widgets in rows and columns. 
+This makes the interface structured and easy to read. When the Submit button is 
+clicked, the program reads the values from the input fields. It then validates 
+the input by checking that the name and grade fields are not empty and that age 
+is numeric. If the input is valid, the program displays the formatted student 
+information in the result label.
