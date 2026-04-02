@@ -1,1 +1,4 @@
-
+The program was improved by adding input validation and better user experience features. The application checks if the input field is empty before performing the calculation.
+It also verifies that the input is numeric using a try-except block. Additionally, the program prevents negative numbers and shows a clear error message if the input is invalid.
+A Clear button was added to remove the text from the input field and reset the result label. The user interface was improved by adding padding between elements and changing the
+result label color after calculation.
